@@ -1,0 +1,1 @@
+# ML-boyut-azaltma
